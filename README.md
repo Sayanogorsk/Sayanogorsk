@@ -1,4 +1,7 @@
 ### Hi there 👋
+Embedded Software Development
+Autonomous Driving Software Development
+Infotainment Software Development
 
 <!--
 **Sayanogorsk/Sayanogorsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
