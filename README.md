@@ -1,6 +1,8 @@
 ### Hi there 👋
 Embedded Software Development
+
 Autonomous Driving Software Development
+
 Infotainment Software Development
 
 <!--
