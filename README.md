@@ -1,9 +1,11 @@
 ### Hi there 👋
-Embedded Software Development
+Linux (C)
 
-Autonomous Driving Software Development
+Autonomous Driving (C++)
 
-Infotainment Software Development
+Machine Learning (Python)
+
+Server (Java)
 
 <!--
 **Sayanogorsk/Sayanogorsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
